@@ -1,0 +1,12 @@
+#formulario-operaciones{
+    background-color: #d8bfd8;
+    width: 20%;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+
+#submit-button{
+    grid-column: 2;
+}
